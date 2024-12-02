@@ -1,0 +1,14 @@
+Broj procesa: 3
+Nazivi procesa: P0 P1 P2
+Broj resursa: 1
+Nazivi resursa: A
+Broj instanci po resursu: 12
+Vektor raspolozivosti: 3
+Matrica alokacija:
+5
+2
+2
+Matrica maksimalnih zahtjeva:
+10
+4
+9
